@@ -1,8 +1,6 @@
 # C++ Guia Basica
 > Hecha por un estudiante, para estudiantes.
 
-COMO RECOMENDACION USA VSCODE, OBSIDIAN O UN LECTOR DE MARKDOWN PARA MEJOR VISUALIZACION, gracias :D
-
 Hola buenas, me llamo leche condensada, soy un estudiante de Ingenieria Civil en informatica de la universidad *********, y les doy la bienvenida a mi guia de C++.  
   
 Con esta guia mi objetivo es repasar C++ y ademas, poder enseñar a otras personas este lenguaje de programacion (que lo considero muy importante).  
